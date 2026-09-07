@@ -1,0 +1,6 @@
+print("Hello, World!")
+print("This is a practice file.")
+print("Let's learn Python together!")
+print("Python is a versatile programming language.")
+print("Practice makes perfect!")
+print("Keep coding and improving your skills.")
